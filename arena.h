@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------------------------
-arena.h — configurable chunked arena allocator
+arena.h — chunk-based arena allocator
 
 
 USAGE:
